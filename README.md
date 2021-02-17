@@ -1,3 +1,3 @@
-# TestScalaDeno1
-TestScalaDeno1
+# TestScalaDemo1
+TestScalaDemo1
 SPARKMLlib
